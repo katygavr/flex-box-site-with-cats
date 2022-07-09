@@ -53,7 +53,7 @@ body{
 }
 
 .hi__list li{
-   background: url('../img/pixlr-bg-result.png') 0 1px no-repeat;
+   background: url('./img/img.kate/pixlr-bg-result.png') 0 1px no-repeat;
    background-size: 20px 12px;
    text-shadow: 1px 1px 0px rgb(234, 216, 228); 
    font-size: 20px;
